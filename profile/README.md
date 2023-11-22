@@ -8,13 +8,8 @@
 
 ## [Crescendo](https://crescendo-study.site)
 
-<div align="center">
     
-![Release](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-v1.0.0-%237F44AA?label=release)   
-    
-</div>
-    
-[서비스 소개](#서비스-소개) | [기술적 세부사항](#⚙-기술적-세부-사항) | [팀원 소개](#팀원-소개)
+[서비스 소개](#서비스-소개) | [기술적 세부사항](#-기술적-세부-사항) | [팀원 소개](#팀원-소개)
     
 </div>
 
